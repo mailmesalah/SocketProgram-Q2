@@ -1,0 +1,3 @@
+﻿  Server.cpp
+d:\socketprogram q2\server\server\server.cpp(15): warning C4101: 'reverseMsg': unreferenced local variable
+  Server.vcxproj -> D:\SocketProgram Q2\Server\Debug\Server.exe
